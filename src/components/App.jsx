@@ -1,7 +1,7 @@
 import React from "react";
 import Emojies from "./Emoji";
 import emojipedia from "../emojipedia";
-
+ 
 const newEmojies = [
   {
     id: 1,
